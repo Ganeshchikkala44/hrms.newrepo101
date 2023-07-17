@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 git feature10 
 new update
+=======
+git feature10
+git change 
+>>>>>>> ea1637c50b57408841b6f6c6241fb204b33f17c7
